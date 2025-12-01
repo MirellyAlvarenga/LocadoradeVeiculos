@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MIRELLY\\source\\repos\\LocadoraDeVeiculos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F64473D-192C-4699-8A05-6C8D84094833}|LocadoraDeVeiculos\\LocadoraDeVeiculos.csproj|c:\\users\\mirelly\\source\\repos\\locadoradeveiculos\\locadoradeveiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F64473D-192C-4699-8A05-6C8D84094833}|LocadoraDeVeiculos\\LocadoraDeVeiculos.csproj|solutionrelative:locadoradeveiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F64473D-192C-4699-8A05-6C8D84094833}|LocadoraDeVeiculos\\LocadoraDeVeiculos.csproj|c:\\users\\mirelly\\source\\repos\\locadoradeveiculos\\locadoradeveiculos\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F64473D-192C-4699-8A05-6C8D84094833}|LocadoraDeVeiculos\\LocadoraDeVeiculos.csproj|solutionrelative:locadoradeveiculos\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F64473D-192C-4699-8A05-6C8D84094833}|LocadoraDeVeiculos\\LocadoraDeVeiculos.csproj|c:\\users\\mirelly\\source\\repos\\locadoradeveiculos\\locadoradeveiculos\\models\\fabricante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F64473D-192C-4699-8A05-6C8D84094833}|LocadoraDeVeiculos\\LocadoraDeVeiculos.csproj|solutionrelative:locadoradeveiculos\\models\\fabricante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F64473D-192C-4699-8A05-6C8D84094833}|LocadoraDeVeiculos\\LocadoraDeVeiculos.csproj|c:\\users\\mirelly\\source\\repos\\locadoradeveiculos\\locadoradeveiculos\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F64473D-192C-4699-8A05-6C8D84094833}|LocadoraDeVeiculos\\LocadoraDeVeiculos.csproj|solutionrelative:locadoradeveiculos\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F64473D-192C-4699-8A05-6C8D84094833}|LocadoraDeVeiculos\\LocadoraDeVeiculos.csproj|c:\\users\\mirelly\\source\\repos\\locadoradeveiculos\\locadoradeveiculos\\models\\categoriaveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F64473D-192C-4699-8A05-6C8D84094833}|LocadoraDeVeiculos\\LocadoraDeVeiculos.csproj|solutionrelative:locadoradeveiculos\\models\\categoriaveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F64473D-192C-4699-8A05-6C8D84094833}|LocadoraDeVeiculos\\LocadoraDeVeiculos.csproj|c:\\users\\mirelly\\source\\repos\\locadoradeveiculos\\locadoradeveiculos\\models\\aluguel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F64473D-192C-4699-8A05-6C8D84094833}|LocadoraDeVeiculos\\LocadoraDeVeiculos.csproj|solutionrelative:locadoradeveiculos\\models\\aluguel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F64473D-192C-4699-8A05-6C8D84094833}|LocadoraDeVeiculos\\LocadoraDeVeiculos.csproj|c:\\users\\mirelly\\source\\repos\\locadoradeveiculos\\locadoradeveiculos\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F64473D-192C-4699-8A05-6C8D84094833}|LocadoraDeVeiculos\\LocadoraDeVeiculos.csproj|solutionrelative:locadoradeveiculos\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F64473D-192C-4699-8A05-6C8D84094833}|LocadoraDeVeiculos\\LocadoraDeVeiculos.csproj|c:\\users\\mirelly\\source\\repos\\locadoradeveiculos\\locadoradeveiculos\\migrations\\20250925024042_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F64473D-192C-4699-8A05-6C8D84094833}|LocadoraDeVeiculos\\LocadoraDeVeiculos.csproj|solutionrelative:locadoradeveiculos\\migrations\\20250925024042_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F64473D-192C-4699-8A05-6C8D84094833}|LocadoraDeVeiculos\\LocadoraDeVeiculos.csproj|c:\\users\\mirelly\\source\\repos\\locadoradeveiculos\\locadoradeveiculos\\dto\u0027s\\veiculodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F64473D-192C-4699-8A05-6C8D84094833}|LocadoraDeVeiculos\\LocadoraDeVeiculos.csproj|solutionrelative:locadoradeveiculos\\dto\u0027s\\veiculodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F64473D-192C-4699-8A05-6C8D84094833}|LocadoraDeVeiculos\\LocadoraDeVeiculos.csproj|c:\\users\\mirelly\\source\\repos\\locadoradeveiculos\\locadoradeveiculos\\dto\u0027s\\alugueldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F64473D-192C-4699-8A05-6C8D84094833}|LocadoraDeVeiculos\\LocadoraDeVeiculos.csproj|solutionrelative:locadoradeveiculos\\dto\u0027s\\alugueldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F64473D-192C-4699-8A05-6C8D84094833}|LocadoraDeVeiculos\\LocadoraDeVeiculos.csproj|c:\\users\\mirelly\\source\\repos\\locadoradeveiculos\\locadoradeveiculos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F64473D-192C-4699-8A05-6C8D84094833}|LocadoraDeVeiculos\\LocadoraDeVeiculos.csproj|solutionrelative:locadoradeveiculos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F64473D-192C-4699-8A05-6C8D84094833}|LocadoraDeVeiculos\\LocadoraDeVeiculos.csproj|c:\\users\\mirelly\\source\\repos\\locadoradeveiculos\\locadoradeveiculos\\controllers\\alugueiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F64473D-192C-4699-8A05-6C8D84094833}|LocadoraDeVeiculos\\LocadoraDeVeiculos.csproj|solutionrelative:locadoradeveiculos\\controllers\\alugueiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fabricante.cs",
+              "DocumentMoniker": "C:\\Users\\MIRELLY\\source\\repos\\LocadoraDeVeiculos\\LocadoraDeVeiculos\\Models\\Fabricante.cs",
+              "RelativeDocumentMoniker": "LocadoraDeVeiculos\\Models\\Fabricante.cs",
+              "ToolTip": "C:\\Users\\MIRELLY\\source\\repos\\LocadoraDeVeiculos\\LocadoraDeVeiculos\\Models\\Fabricante.cs",
+              "RelativeToolTip": "LocadoraDeVeiculos\\Models\\Fabricante.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T21:43:37.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\MIRELLY\\source\\repos\\LocadoraDeVeiculos\\LocadoraDeVeiculos\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "LocadoraDeVeiculos\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\MIRELLY\\source\\repos\\LocadoraDeVeiculos\\LocadoraDeVeiculos\\Models\\Cliente.cs",
+              "RelativeToolTip": "LocadoraDeVeiculos\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T21:43:29.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\MIRELLY\\source\\repos\\LocadoraDeVeiculos\\LocadoraDeVeiculos\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "LocadoraDeVeiculos\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\MIRELLY\\source\\repos\\LocadoraDeVeiculos\\LocadoraDeVeiculos\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "LocadoraDeVeiculos\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAAAAQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T21:43:00.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250925024042_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\MIRELLY\\source\\repos\\LocadoraDeVeiculos\\LocadoraDeVeiculos\\Migrations\\20250925024042_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LocadoraDeVeiculos\\Migrations\\20250925024042_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\MIRELLY\\source\\repos\\LocadoraDeVeiculos\\LocadoraDeVeiculos\\Migrations\\20250925024042_InitialCreate.cs",
+              "RelativeToolTip": "LocadoraDeVeiculos\\Migrations\\20250925024042_InitialCreate.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAAKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:45:30.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Aluguel.cs",
+              "DocumentMoniker": "C:\\Users\\MIRELLY\\source\\repos\\LocadoraDeVeiculos\\LocadoraDeVeiculos\\Models\\Aluguel.cs",
+              "RelativeDocumentMoniker": "LocadoraDeVeiculos\\Models\\Aluguel.cs",
+              "ToolTip": "C:\\Users\\MIRELLY\\source\\repos\\LocadoraDeVeiculos\\LocadoraDeVeiculos\\Models\\Aluguel.cs",
+              "RelativeToolTip": "LocadoraDeVeiculos\\Models\\Aluguel.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T03:15:43.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\MIRELLY\\source\\repos\\LocadoraDeVeiculos\\LocadoraDeVeiculos\\Models\\Veiculo.cs",
+              "RelativeDocumentMoniker": "LocadoraDeVeiculos\\Models\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\MIRELLY\\source\\repos\\LocadoraDeVeiculos\\LocadoraDeVeiculos\\Models\\Veiculo.cs",
+              "RelativeToolTip": "LocadoraDeVeiculos\\Models\\Veiculo.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:46:17.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MIRELLY\\source\\repos\\LocadoraDeVeiculos\\LocadoraDeVeiculos\\Program.cs",
+              "RelativeDocumentMoniker": "LocadoraDeVeiculos\\Program.cs",
+              "ToolTip": "C:\\Users\\MIRELLY\\source\\repos\\LocadoraDeVeiculos\\LocadoraDeVeiculos\\Program.cs",
+              "RelativeToolTip": "LocadoraDeVeiculos\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwC8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T03:16:54.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MIRELLY\\source\\repos\\LocadoraDeVeiculos\\LocadoraDeVeiculos\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LocadoraDeVeiculos\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\MIRELLY\\source\\repos\\LocadoraDeVeiculos\\LocadoraDeVeiculos\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LocadoraDeVeiculos\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T21:41:37.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriaVeiculo.cs",
+              "DocumentMoniker": "C:\\Users\\MIRELLY\\source\\repos\\LocadoraDeVeiculos\\LocadoraDeVeiculos\\Models\\CategoriaVeiculo.cs",
+              "RelativeDocumentMoniker": "LocadoraDeVeiculos\\Models\\CategoriaVeiculo.cs",
+              "ToolTip": "C:\\Users\\MIRELLY\\source\\repos\\LocadoraDeVeiculos\\LocadoraDeVeiculos\\Models\\CategoriaVeiculo.cs",
+              "RelativeToolTip": "LocadoraDeVeiculos\\Models\\CategoriaVeiculo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:45:54.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AlugueisController.cs",
+              "DocumentMoniker": "C:\\Users\\MIRELLY\\source\\repos\\LocadoraDeVeiculos\\LocadoraDeVeiculos\\Controllers\\AlugueisController.cs",
+              "RelativeDocumentMoniker": "LocadoraDeVeiculos\\Controllers\\AlugueisController.cs",
+              "ToolTip": "C:\\Users\\MIRELLY\\source\\repos\\LocadoraDeVeiculos\\LocadoraDeVeiculos\\Controllers\\AlugueisController.cs",
+              "RelativeToolTip": "LocadoraDeVeiculos\\Controllers\\AlugueisController.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAAAPkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T03:16:25.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AluguelDto.cs",
+              "DocumentMoniker": "C:\\Users\\MIRELLY\\source\\repos\\LocadoraDeVeiculos\\LocadoraDeVeiculos\\DTO\u0027s\\AluguelDto.cs",
+              "RelativeDocumentMoniker": "LocadoraDeVeiculos\\DTO\u0027s\\AluguelDto.cs",
+              "ToolTip": "C:\\Users\\MIRELLY\\source\\repos\\LocadoraDeVeiculos\\LocadoraDeVeiculos\\DTO\u0027s\\AluguelDto.cs",
+              "RelativeToolTip": "LocadoraDeVeiculos\\DTO\u0027s\\AluguelDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA8wBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:44:57.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VeiculoDto.cs",
+              "DocumentMoniker": "C:\\Users\\MIRELLY\\source\\repos\\LocadoraDeVeiculos\\LocadoraDeVeiculos\\DTO\u0027s\\VeiculoDto.cs",
+              "RelativeDocumentMoniker": "LocadoraDeVeiculos\\DTO\u0027s\\VeiculoDto.cs",
+              "ToolTip": "C:\\Users\\MIRELLY\\source\\repos\\LocadoraDeVeiculos\\LocadoraDeVeiculos\\DTO\u0027s\\VeiculoDto.cs",
+              "RelativeToolTip": "LocadoraDeVeiculos\\DTO\u0027s\\VeiculoDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAA8wAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:45:07.852Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
